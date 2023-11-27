@@ -7,7 +7,9 @@
 **Pelham:** Pelham is distinguished by it's two primary postal codes - 10461 and 10462. The 10461 area comprises a white population, with a Hispanic population being present as well, but varying between 11 ~ 30%; overall nowhere near the white population. Also within this zip code, the Asian population remains minimal, practically under 20%. In the 10462 area, the white popluation does not surpass 40%, but the Hispanic population consistently increases over 50%. The black population is still in the single digits, but it sometimes reaches 11%.
 
 ### HC 3: The ***Clean Heat*** Program:
-![NYSPIC](https://github.com/AntTomm/TheBronx/assets/148288592/923b629d-0a56-44b7-9c81-062b995b5f6d) 
+
+＜img src="(https://github.com/AntTomm/TheBronx/assets/148288592/923b629d-0a56-44b7-9c81-062b995b5f6d)" width="500" height="300"＞
+
 
 
 The New York City Clean Heat Program, led by the New York State Research & Development Authority, is determined to transform the city's energy usage and improve air quality along with reducing carbon emissions. In order to do this, they would start to phase out harmful fuels like oil #4 & #6 by January 2030. The DEP Boiler Registration both monitors & improves the environmental performance, which in turn reduces air pollution. Furthermore, the Greener, Greater Buildings Plan coincides with plaNYC, as they are saving $250 million, and promoting eco-friendly options for buildings. Finally, initiatives like the Utility Rebate Program aim to increase clean-emission projects in buildings, which as a result should cut CO2 emissions by 40%, and have 70% of the city running on clean energy by 2030!
