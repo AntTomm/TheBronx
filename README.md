@@ -1,4 +1,4 @@
-# Isabella A, Matthew W, Mitchell L, & Anthony T
+# Isabel A, Matthew W, Mitchell L, & Anthony T
 
 ### HC2: Neighborhood Analysis
 
@@ -7,6 +7,8 @@
 **Pelham:** Pelham is distinguished by it's two primary postal codes - 10461 and 10462. The 10461 area comprises a white population, with a Hispanic population being present as well, but varying between 11 ~ 30%; overall nowhere near the white population. Also within this zip code, the Asian population remains minimal, practically under 20%. In the 10462 area, the white popluation does not surpass 40%, but the Hispanic population consistently increases over 50%. The black population is still in the single digits, but it sometimes reaches 11%.
 
 **Wakefield:** Located above the Botanical Gardens & Bronx Zoo, Wakefield has a population of around 75,767, with an average age of 37. The area is predominantly black, with the demographic being 63.68%, and the median household income is $62,918, which is slightly below New York City's average. Some housing options are single-family homes, multi-family houses, and apartments. 77% of the apartments are renter-occupied. The average house value is at aroind $495,000, and the rent for a one-bedroom apartment is approximately $1,400. In the 25,014 present households, 45% have marired couples, and 36% are female householders. Wakefield is in District 12 of the Bronx, and takes residents an average of 47 minutes to get to work. 31.3% of the population has a high school degree, and the dropout rate is only 5%. 
+
+**Belmont:** In Belmont, there's a population of 176,000 people. About 62% are Hispanic, and 30% are black. As of 2022, about 36% of the population lives below the poverty line, and the median household income is $31,990. While Belmont is home to numerous college students from the nearby college, Fordham University, the rate of college-educated individuals is lower than the rest of the city. Furthermore, there are also higher rates of obesity, diabetes, and high blood pressure compared to the NYC averages. For housing, most people rent. Finally, the average rent for a 2 bedroom apartmnet is $2,300.
 
 ### HC 3: The ***Clean Heat*** Program: 
 <img src="https://github.com/AntTomm/TheBronx/assets/148288592/923b629d-0a56-44b7-9c81-062b995b5f6d" width="300" height="200">
@@ -19,15 +21,17 @@ No. 4 & 6 fuels are derived from petroleum, and are used all throughout the heat
 
 #### **Melrose Exploration:** 
 
-*Anthony Tommaso:* (https://anttomm.github.io/Melrose/) 
+*Anthony Tommaso:* [Melrose](https://anttomm.github.io/Melrose/)
 
 #### **Pelham Exploration:**
 
-*Isabella Arce:* (https://isabel-arce.github.io/)
+*Isabel Arce:* [Pelham](https://isabel-arce.github.io/)
 
 #### **Wakefield Exploration:**
 
-*Matthew Wassif:* (https://mattwassif.github.io/NeighborhoodProject/)
+*Matthew Wassif:* [Wakefield](https://mattwassif.github.io/NeighborhoodProject/)
 
-#### **
+#### **Belmont Exploration:**
+
+**Mitchell Lipyansky:* [Belmont](https://mlipyansky.github.io/Belmont-Clean-Heat/)
 
