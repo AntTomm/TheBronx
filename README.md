@@ -16,3 +16,18 @@ The New York City Clean Heat Program, led by the New York State Research & Devel
 ### HC 8: Combined Data Exploration:
 
 No. 4 & 6 fuels are derived from petroleum, and are used all throughout the heating system engines in the borough. We also analyzed the building age through our data, and were able to determine that the average building year is 1929. This is mostly shown in areas like Melrose or Wakefield, and raises health concerns due to the old materials that were used, as they could potentially cause respiratory issues like asthma, among others. Furthermore, the elevated MMBTU in Bronxdale may suggest the idea that there is a demand for heat when considering the population. Regardless, the high MMBTU also leads to multiple types of pollution such as Greenhouse Gas Emissions, land pollution from waste disposal, and chemical pollution. More information & graphs can be found in the websites below!
+
+#### **Melrose Exploration:** 
+
+*Anthony Tommaso:* https://anttomm.github.io/Melrose/ 
+
+#### **Pelham Exploration:**
+
+*Isabella Arce:* https://isabel-arce.github.io/
+
+#### **Wakefield Exploration:**
+
+*Matthew Wassif:* https://mattwassif.github.io/NeighborhoodProject/
+
+#### **
+
