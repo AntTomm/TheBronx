@@ -19,15 +19,15 @@ No. 4 & 6 fuels are derived from petroleum, and are used all throughout the heat
 
 #### **Melrose Exploration:** 
 
-*Anthony Tommaso:* https://anttomm.github.io/Melrose/ 
+*Anthony Tommaso:* (https://anttomm.github.io/Melrose/) 
 
 #### **Pelham Exploration:**
 
-*Isabella Arce:* https://isabel-arce.github.io/
+*Isabella Arce:* (https://isabel-arce.github.io/)
 
 #### **Wakefield Exploration:**
 
-*Matthew Wassif:* https://mattwassif.github.io/NeighborhoodProject/
+*Matthew Wassif:* (https://mattwassif.github.io/NeighborhoodProject/)
 
 #### **
 
