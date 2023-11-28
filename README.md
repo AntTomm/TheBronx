@@ -33,5 +33,5 @@ No. 4 & 6 fuels are derived from petroleum, and are used all throughout the heat
 
 #### **Belmont Exploration:**
 
-**Mitchell Lipyansky:* [Belmont](https://mlipyansky.github.io/Belmont-Clean-Heat/)
+*Mitchell Lipyansky:* [Belmont](https://mlipyansky.github.io/Belmont-Clean-Heat/)
 
